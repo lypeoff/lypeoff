@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lypeoff
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on (I don't now, lol)
 - 📫 How to reach me ... @lypeoff
 
 <!---
